@@ -1,0 +1,14 @@
+Alguns tutoriais:
+
+http://developer.yahoo.com/hadoop/tutorial/
+
+https://cwiki.apache.org/confluence/display/Hive/Tutorial
+
+https://cwiki.apache.org/confluence/display/MAHOUT/Mahout+Wiki
+
+
+Me envie um resumo de cada um deles, dizendo:
+- O que é?
+- Arquitetura;
+- Requisitos para execução;
+- Sintaxe de consulta (quando houver).
